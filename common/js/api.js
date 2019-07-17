@@ -19,7 +19,7 @@ var device_type = 'aliapp'
 //var app = getApp();
 
 // var host = "http://127.0.0.1:9051/";  //替换为自己的域名,小程序需要https
-var host = "https://fg-frontend.smbaidu.com/";  //替换为自己的域名,小程序需要https
+var host = "https://www.baidu.com/";  //替换为自己的域名,小程序需要https
 var serviceProgram = 'jxb';
 module.exports = {
 	HOST: host,
