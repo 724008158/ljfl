@@ -54,7 +54,7 @@
 </template>
 
 <script>
-	
+	//var api = require('@/common/js/api.js');
 	export default {
 		data() {
 			return {
@@ -125,7 +125,20 @@
 				this.showAnswerStatus = false;
 			},
 			getData() {
-				
+				/* api.post({
+					url: 'refuse-classification/refuse-classification-exam-ajax',
+					data: {
+						city_name:this.currentCity,
+						_page: 1,
+						_page_size: 10,
+					},
+					success: data => {
+						let result = data.result;
+						this.refuseProblemList = result.data;
+						this.refuseTypeInfo = result.refuseTypeInfo;
+						this.refuseProblemTotal = this.refuseProblemList.length;
+					}
+				}); */
 				this.refuseProblemList = [{
 						id: 1,
 						name: '狗屎1',
