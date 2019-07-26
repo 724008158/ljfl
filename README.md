@@ -11,7 +11,7 @@ uni-app 做的垃圾分类项目，生活垃圾分类查询测试助手小程序
 ## 直接扫码体验微信小程序：
 
 ![image](https://github.com/724008158/ljfl/blob/master/static/gh_ed00f51472f4_258.jpg)
-
+![image](https://github.com/724008158/ljfl/blob/master/static/erweima1.jpg)
 
 ## 截图：
 
